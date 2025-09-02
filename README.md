@@ -1,1 +1,1 @@
-# rps
+Odin simple rock paper scissor project
